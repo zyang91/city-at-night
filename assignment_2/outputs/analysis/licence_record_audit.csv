@@ -1,0 +1,30 @@
+source,licence_type,status,current,role,n,included
+City business licence,Annual Small Games Of Chance,Active,TRUE,not relevant,1,FALSE
+City business licence,Dumpster License - Private Property,Active,FALSE,not relevant,2,FALSE
+City business licence,Dumpster License - Private Property,Active,TRUE,not relevant,84,FALSE
+City business licence,Dumpster License - Public ROW,Active,TRUE,not relevant,5,FALSE
+City business licence,"Food Establishment, Outdoor",Active,TRUE,primary,1,TRUE
+City business licence,"Food Establishment, Retail Perm Location (Large)",Active,TRUE,not relevant,3,FALSE
+City business licence,"Food Establishment, Retail Permanent Location",Active,TRUE,not relevant,3,FALSE
+City business licence,Food Preparing and Serving,Active,TRUE,primary,21,TRUE
+City business licence,Food Preparing and Serving (30+ SEATS),Active,FALSE,primary,1,FALSE
+City business licence,Food Preparing and Serving (30+ SEATS),Active,TRUE,primary,40,TRUE
+City business licence,Handbill Distribution,Active,TRUE,not relevant,2,FALSE
+City business licence,Hazardous Materials,Active,TRUE,not relevant,3,FALSE
+City business licence,High Rise,Active,FALSE,not relevant,1,FALSE
+City business licence,High Rise,Active,TRUE,not relevant,17,FALSE
+City business licence,Limited Lodging Operator,Active,TRUE,not relevant,2,FALSE
+City business licence,Precious Metal Dealer,Active,TRUE,not relevant,2,FALSE
+City business licence,Public Garage / Parking Lot,Active,TRUE,not relevant,6,FALSE
+City business licence,Rental,Active,FALSE,not relevant,2,FALSE
+City business licence,Rental,Active,TRUE,not relevant,355,FALSE
+City business licence,Sidewalk Cafe,Active,TRUE,ancillary,19,TRUE
+City business licence,Special Assembly Occupancy,Active,TRUE,primary,1,TRUE
+City business licence,Streetery License,Active,TRUE,ancillary,3,TRUE
+City business licence,Vacant Residential Property / Lot,Active,TRUE,not relevant,1,FALSE
+PLCB liquor licence,Catering Club (Liquor),Active,TRUE,primary,1,TRUE
+PLCB liquor licence,Hotel (Liquor),Active,TRUE,primary,4,TRUE
+PLCB liquor licence,Importer,Active,TRUE,not relevant,1,FALSE
+PLCB liquor licence,Restaurant (Liquor),Active,TRUE,primary,34,TRUE
+PLCB liquor licence,Restaurant (Liquor),Pending,FALSE,primary,2,FALSE
+PLCB liquor licence,Restaurant (Liquor),Safekeeping,FALSE,primary,4,FALSE

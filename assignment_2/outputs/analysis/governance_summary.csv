@@ -1,0 +1,9 @@
+layer,name,manager,pct_of_study_area,source
+Council District,Council District 2,,26.8,Council_Districts_2024.geojson (OpenDataPhilly)
+Council District,Council District 5,,73.2,Council_Districts_2024.geojson (OpenDataPhilly)
+Police District,Police District 9,,100,Boundaries_District.geojson (Philadelphia Police Dept.)
+Registered Community Organization (RCO),Center City Organized for Responsible Development,,99.2,Zoning_RCO.geojson (PCPC)
+Registered Community Organization (RCO),Center City Residents Association (CCRA),,100,Zoning_RCO.geojson (PCPC)
+Business Improvement District (BID/SSD),CENTER CITY DISTRICT,,69.2,business_improvement_districts.shp (Commerce Dept.)
+Commercial Corridor / Corridor Manager,Market West (Central),No corridor manager recorded (crm_org blank),99.6,Commercial_Corridors.geojson (PCPC/Commerce)
+Special Vending District,Center City Special Vending District (Code 9-204),,100,Vending_Special_Districts.geojson

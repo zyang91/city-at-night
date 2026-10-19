@@ -1,0 +1,65 @@
+district,use,base_district_status,overlay_chestnut_walnut_west,status_if_fronting_chestnut_walnut,code_reference
+CMX-2,Prepared Food Shop,Y,S (Table 14-502-2),S,Table 14-602-2
+CMX-2,Take-Out Restaurant,S,S (Table 14-502-2),S,Table 14-602-2
+CMX-2,Sit-Down Restaurant,Y,S (Table 14-502-2),S,Table 14-602-2
+CMX-2,Nightclubs and Public Entertainment Venue,S,No overlay change,S,Table 14-602-2
+CMX-2,Assembly and Entertainment (general),S,No overlay change,S,Table 14-602-2
+CMX-2,Event Assembly Facility,S,No overlay change,S,Table 14-602-2
+CMX-2,Visitor Accommodations,N,No overlay change,N,Table 14-602-2
+CMX-2,Fraternal Organization,Y,No overlay change,Y,Table 14-602-2
+CMX-3,Prepared Food Shop,Y,S (Table 14-502-2),S,Table 14-602-2
+CMX-3,Take-Out Restaurant,Y,S (Table 14-502-2),S,Table 14-602-2
+CMX-3,Sit-Down Restaurant,Y,S (Table 14-502-2),S,Table 14-602-2
+CMX-3,Nightclubs and Public Entertainment Venue,S,No overlay change,S,Table 14-602-2
+CMX-3,Assembly and Entertainment (general),S,No overlay change,S,Table 14-602-2
+CMX-3,Event Assembly Facility,S,No overlay change,S,Table 14-602-2
+CMX-3,Visitor Accommodations,Y,No overlay change,Y,Table 14-602-2
+CMX-3,Fraternal Organization,Y,No overlay change,Y,Table 14-602-2
+CMX-4,Prepared Food Shop,Y,S (Table 14-502-2),S,Table 14-602-2
+CMX-4,Take-Out Restaurant,Y,S (Table 14-502-2),S,Table 14-602-2
+CMX-4,Sit-Down Restaurant,Y,S (Table 14-502-2),S,Table 14-602-2
+CMX-4,Nightclubs and Public Entertainment Venue,Y,No overlay change,Y,Table 14-602-2
+CMX-4,Assembly and Entertainment (general),Y,No overlay change,Y,Table 14-602-2
+CMX-4,Event Assembly Facility,Y,No overlay change,Y,Table 14-602-2
+CMX-4,Visitor Accommodations,Y,No overlay change,Y,Table 14-602-2
+CMX-4,Fraternal Organization,Y,No overlay change,Y,Table 14-602-2
+CMX-5,Prepared Food Shop,Y,S (Table 14-502-2),S,Table 14-602-2
+CMX-5,Take-Out Restaurant,Y,S (Table 14-502-2),S,Table 14-602-2
+CMX-5,Sit-Down Restaurant,Y,S (Table 14-502-2),S,Table 14-602-2
+CMX-5,Nightclubs and Public Entertainment Venue,Y,No overlay change,Y,Table 14-602-2
+CMX-5,Assembly and Entertainment (general),Y,No overlay change,Y,Table 14-602-2
+CMX-5,Event Assembly Facility,Y,No overlay change,Y,Table 14-602-2
+CMX-5,Visitor Accommodations,Y,No overlay change,Y,Table 14-602-2
+CMX-5,Fraternal Organization,Y,No overlay change,Y,Table 14-602-2
+RM-1,Prepared Food Shop,N,No overlay change (note [4]: residential lots exempt),N,Table 14-602-1; commercial services not allowed
+RM-1,Take-Out Restaurant,N,No overlay change (note [4]: residential lots exempt),N,Table 14-602-1; commercial services not allowed
+RM-1,Sit-Down Restaurant,N,No overlay change (note [4]: residential lots exempt),N,Table 14-602-1; commercial services not allowed
+RM-1,Nightclubs and Public Entertainment Venue,N,No overlay change (note [4]: residential lots exempt),N,Table 14-602-1; commercial services not allowed
+RM-1,Assembly and Entertainment (general),N,No overlay change (note [4]: residential lots exempt),N,Table 14-602-1; commercial services not allowed
+RM-1,Event Assembly Facility,N,No overlay change (note [4]: residential lots exempt),N,Table 14-602-1; commercial services not allowed
+RM-1,Visitor Accommodations,N,No overlay change (note [4]: residential lots exempt),N,Table 14-602-1; commercial services not allowed
+RM-1,Fraternal Organization,S,No overlay change (note [4]: residential lots exempt),S,Table 14-602-1; commercial services not allowed
+RM-4,Prepared Food Shop,N,No overlay change (note [4]: residential lots exempt),N,Table 14-602-1; commercial services not allowed
+RM-4,Take-Out Restaurant,N,No overlay change (note [4]: residential lots exempt),N,Table 14-602-1; commercial services not allowed
+RM-4,Sit-Down Restaurant,N,No overlay change (note [4]: residential lots exempt),N,Table 14-602-1; commercial services not allowed
+RM-4,Nightclubs and Public Entertainment Venue,N,No overlay change (note [4]: residential lots exempt),N,Table 14-602-1; commercial services not allowed
+RM-4,Assembly and Entertainment (general),N,No overlay change (note [4]: residential lots exempt),N,Table 14-602-1; commercial services not allowed
+RM-4,Event Assembly Facility,N,No overlay change (note [4]: residential lots exempt),N,Table 14-602-1; commercial services not allowed
+RM-4,Visitor Accommodations,N,No overlay change (note [4]: residential lots exempt),N,Table 14-602-1; commercial services not allowed
+RM-4,Fraternal Organization,S,No overlay change (note [4]: residential lots exempt),S,Table 14-602-1; commercial services not allowed
+RMX-3,Prepared Food Shop,Y,No overlay change (note [4]: residential lots exempt),Y,Table 14-602-1 note [5]: retail/commercial service <=25% of GFA; assembly & entertainment not listed (prohibited)
+RMX-3,Take-Out Restaurant,Y,No overlay change (note [4]: residential lots exempt),Y,Table 14-602-1 note [5]: retail/commercial service <=25% of GFA; assembly & entertainment not listed (prohibited)
+RMX-3,Sit-Down Restaurant,Y,No overlay change (note [4]: residential lots exempt),Y,Table 14-602-1 note [5]: retail/commercial service <=25% of GFA; assembly & entertainment not listed (prohibited)
+RMX-3,Nightclubs and Public Entertainment Venue,N,No overlay change (note [4]: residential lots exempt),N,Table 14-602-1 note [5]: retail/commercial service <=25% of GFA; assembly & entertainment not listed (prohibited)
+RMX-3,Assembly and Entertainment (general),N,No overlay change (note [4]: residential lots exempt),N,Table 14-602-1 note [5]: retail/commercial service <=25% of GFA; assembly & entertainment not listed (prohibited)
+RMX-3,Event Assembly Facility,N,No overlay change (note [4]: residential lots exempt),N,Table 14-602-1 note [5]: retail/commercial service <=25% of GFA; assembly & entertainment not listed (prohibited)
+RMX-3,Visitor Accommodations,Y,No overlay change (note [4]: residential lots exempt),Y,Table 14-602-1 note [5]: retail/commercial service <=25% of GFA; assembly & entertainment not listed (prohibited)
+RMX-3,Fraternal Organization,S,No overlay change (note [4]: residential lots exempt),S,Table 14-602-1 note [5]: retail/commercial service <=25% of GFA; assembly & entertainment not listed (prohibited)
+SP-PO-A,Prepared Food Shop,Y,S (Table 14-502-2),S,Table 14-602-4 note [5]: eating & drinking only if co-located with and smaller than a primary park/open-space use
+SP-PO-A,Take-Out Restaurant,Y,S (Table 14-502-2),S,Table 14-602-4 note [5]: eating & drinking only if co-located with and smaller than a primary park/open-space use
+SP-PO-A,Sit-Down Restaurant,Y,S (Table 14-502-2),S,Table 14-602-4 note [5]: eating & drinking only if co-located with and smaller than a primary park/open-space use
+SP-PO-A,Nightclubs and Public Entertainment Venue,N,No overlay change,N,Table 14-602-4 note [5]: eating & drinking only if co-located with and smaller than a primary park/open-space use
+SP-PO-A,Assembly and Entertainment (general),N,No overlay change,N,Table 14-602-4 note [5]: eating & drinking only if co-located with and smaller than a primary park/open-space use
+SP-PO-A,Event Assembly Facility,N,No overlay change,N,Table 14-602-4 note [5]: eating & drinking only if co-located with and smaller than a primary park/open-space use
+SP-PO-A,Visitor Accommodations,N,No overlay change,N,Table 14-602-4 note [5]: eating & drinking only if co-located with and smaller than a primary park/open-space use
+SP-PO-A,Fraternal Organization,N,No overlay change,N,Table 14-602-4 note [5]: eating & drinking only if co-located with and smaller than a primary park/open-space use

@@ -1,0 +1,9 @@
+zoning_district,zoning_group,n_polygons,acres,pct_of_zoned_land
+CMX-5,Commercial/Commercial Mixed-Use,8,10.34,33.1
+RM-4,Residential/Multi-Family/Residential Mixed-Use,8,6.89,22.1
+SP-PO-A,Special Purpose,1,6.51,20.9
+CMX-4,Commercial/Commercial Mixed-Use,3,4.05,13
+RMX-3,Residential/Multi-Family/Residential Mixed-Use,2,1.4,4.5
+RM-1,Residential/Multi-Family/Residential Mixed-Use,2,0.82,2.6
+CMX-2,Commercial/Commercial Mixed-Use,6,0.74,2.4
+CMX-3,Commercial/Commercial Mixed-Use,1,0.47,1.5
